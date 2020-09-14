@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f87e7b7b-6325-483e-ba72-e2565f72b607" name="Default Changelist" comment="" />
+    <list default="true" id="f87e7b7b-6325-483e-ba72-e2565f72b607" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/myNewProject" beforeDir="false" afterPath="$PROJECT_DIR$/myNewProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myNewProject/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/myNewProject/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598967261329</updated>
       <workItem from="1598967263149" duration="301000" />
+      <workItem from="1599631024378" duration="12000" />
     </task>
     <servers />
   </component>
@@ -68,5 +72,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
